@@ -8,7 +8,7 @@ and is a simple C programm neccessary to pass the class_
 
 > #### Description of project 
 >
->>A program written with compatibility with Posix and uses Posix Threads that runs the philosohper meal problem using threads and mutex to prevent multiple simultaneous execution of the critical section.
+>>A program written with compatibility with Posix and uses Posix Threads that runs the philosohper dinner problem using threads and mutex to prevent multiple simultaneous execution of the critical section.
 
 > #### About this project
 >
